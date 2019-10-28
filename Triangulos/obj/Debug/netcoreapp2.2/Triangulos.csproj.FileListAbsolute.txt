@@ -1,0 +1,11 @@
+C:\Users\32727031874\Documents\Desafios\Triangulos\bin\Debug\netcoreapp2.2\Triangulos.deps.json
+C:\Users\32727031874\Documents\Desafios\Triangulos\bin\Debug\netcoreapp2.2\Triangulos.runtimeconfig.json
+C:\Users\32727031874\Documents\Desafios\Triangulos\bin\Debug\netcoreapp2.2\Triangulos.runtimeconfig.dev.json
+C:\Users\32727031874\Documents\Desafios\Triangulos\bin\Debug\netcoreapp2.2\Triangulos.dll
+C:\Users\32727031874\Documents\Desafios\Triangulos\bin\Debug\netcoreapp2.2\Triangulos.pdb
+C:\Users\32727031874\Documents\Desafios\Triangulos\obj\Debug\netcoreapp2.2\Triangulos.csprojAssemblyReference.cache
+C:\Users\32727031874\Documents\Desafios\Triangulos\obj\Debug\netcoreapp2.2\Triangulos.csproj.CoreCompileInputs.cache
+C:\Users\32727031874\Documents\Desafios\Triangulos\obj\Debug\netcoreapp2.2\Triangulos.AssemblyInfoInputs.cache
+C:\Users\32727031874\Documents\Desafios\Triangulos\obj\Debug\netcoreapp2.2\Triangulos.AssemblyInfo.cs
+C:\Users\32727031874\Documents\Desafios\Triangulos\obj\Debug\netcoreapp2.2\Triangulos.dll
+C:\Users\32727031874\Documents\Desafios\Triangulos\obj\Debug\netcoreapp2.2\Triangulos.pdb

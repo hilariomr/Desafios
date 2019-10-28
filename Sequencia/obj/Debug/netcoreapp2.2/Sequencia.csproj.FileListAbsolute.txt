@@ -1,0 +1,11 @@
+C:\Users\32727031874\Documents\Desafios\Sequencia\bin\Debug\netcoreapp2.2\Sequencia.deps.json
+C:\Users\32727031874\Documents\Desafios\Sequencia\bin\Debug\netcoreapp2.2\Sequencia.runtimeconfig.json
+C:\Users\32727031874\Documents\Desafios\Sequencia\bin\Debug\netcoreapp2.2\Sequencia.runtimeconfig.dev.json
+C:\Users\32727031874\Documents\Desafios\Sequencia\bin\Debug\netcoreapp2.2\Sequencia.dll
+C:\Users\32727031874\Documents\Desafios\Sequencia\bin\Debug\netcoreapp2.2\Sequencia.pdb
+C:\Users\32727031874\Documents\Desafios\Sequencia\obj\Debug\netcoreapp2.2\Sequencia.csprojAssemblyReference.cache
+C:\Users\32727031874\Documents\Desafios\Sequencia\obj\Debug\netcoreapp2.2\Sequencia.csproj.CoreCompileInputs.cache
+C:\Users\32727031874\Documents\Desafios\Sequencia\obj\Debug\netcoreapp2.2\Sequencia.AssemblyInfoInputs.cache
+C:\Users\32727031874\Documents\Desafios\Sequencia\obj\Debug\netcoreapp2.2\Sequencia.AssemblyInfo.cs
+C:\Users\32727031874\Documents\Desafios\Sequencia\obj\Debug\netcoreapp2.2\Sequencia.dll
+C:\Users\32727031874\Documents\Desafios\Sequencia\obj\Debug\netcoreapp2.2\Sequencia.pdb

@@ -1,0 +1,11 @@
+C:\Users\32727031874\Documents\Desafios\TrocaVariavel\bin\Debug\netcoreapp2.2\TrocaVariavel.deps.json
+C:\Users\32727031874\Documents\Desafios\TrocaVariavel\bin\Debug\netcoreapp2.2\TrocaVariavel.runtimeconfig.json
+C:\Users\32727031874\Documents\Desafios\TrocaVariavel\bin\Debug\netcoreapp2.2\TrocaVariavel.runtimeconfig.dev.json
+C:\Users\32727031874\Documents\Desafios\TrocaVariavel\bin\Debug\netcoreapp2.2\TrocaVariavel.dll
+C:\Users\32727031874\Documents\Desafios\TrocaVariavel\bin\Debug\netcoreapp2.2\TrocaVariavel.pdb
+C:\Users\32727031874\Documents\Desafios\TrocaVariavel\obj\Debug\netcoreapp2.2\TrocaVariavel.csprojAssemblyReference.cache
+C:\Users\32727031874\Documents\Desafios\TrocaVariavel\obj\Debug\netcoreapp2.2\TrocaVariavel.csproj.CoreCompileInputs.cache
+C:\Users\32727031874\Documents\Desafios\TrocaVariavel\obj\Debug\netcoreapp2.2\TrocaVariavel.AssemblyInfoInputs.cache
+C:\Users\32727031874\Documents\Desafios\TrocaVariavel\obj\Debug\netcoreapp2.2\TrocaVariavel.AssemblyInfo.cs
+C:\Users\32727031874\Documents\Desafios\TrocaVariavel\obj\Debug\netcoreapp2.2\TrocaVariavel.dll
+C:\Users\32727031874\Documents\Desafios\TrocaVariavel\obj\Debug\netcoreapp2.2\TrocaVariavel.pdb
