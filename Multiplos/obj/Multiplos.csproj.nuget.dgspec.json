@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/rafamaciel/Documents/Desafios/Planeta/Planeta.csproj": {}
+    "/home/rafamaciel/Documents/Desafios/Multiplos/Multiplos.csproj": {}
   },
   "projects": {
-    "/home/rafamaciel/Documents/Desafios/Planeta/Planeta.csproj": {
+    "/home/rafamaciel/Documents/Desafios/Multiplos/Multiplos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/rafamaciel/Documents/Desafios/Planeta/Planeta.csproj",
-        "projectName": "Planeta",
-        "projectPath": "/home/rafamaciel/Documents/Desafios/Planeta/Planeta.csproj",
+        "projectUniqueName": "/home/rafamaciel/Documents/Desafios/Multiplos/Multiplos.csproj",
+        "projectName": "Multiplos",
+        "projectPath": "/home/rafamaciel/Documents/Desafios/Multiplos/Multiplos.csproj",
         "packagesPath": "/home/rafamaciel/.nuget/packages/",
-        "outputPath": "/home/rafamaciel/Documents/Desafios/Planeta/obj/",
+        "outputPath": "/home/rafamaciel/Documents/Desafios/Multiplos/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"

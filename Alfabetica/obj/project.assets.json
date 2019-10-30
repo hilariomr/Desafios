@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/rafamaciel/Documents/Desafios/Planeta/Planeta.csproj",
-      "projectName": "Planeta",
-      "projectPath": "/home/rafamaciel/Documents/Desafios/Planeta/Planeta.csproj",
+      "projectUniqueName": "/home/rafamaciel/Documents/Desafios/Alfabetica/Alfabetica.csproj",
+      "projectName": "Alfabetica",
+      "projectPath": "/home/rafamaciel/Documents/Desafios/Alfabetica/Alfabetica.csproj",
       "packagesPath": "/home/rafamaciel/.nuget/packages/",
-      "outputPath": "/home/rafamaciel/Documents/Desafios/Planeta/obj/",
+      "outputPath": "/home/rafamaciel/Documents/Desafios/Alfabetica/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

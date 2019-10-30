@@ -1,0 +1,11 @@
+/home/rafamaciel/Documents/Desafios/Planeta/bin/Debug/netcoreapp2.2/Planeta.deps.json
+/home/rafamaciel/Documents/Desafios/Planeta/bin/Debug/netcoreapp2.2/Planeta.runtimeconfig.json
+/home/rafamaciel/Documents/Desafios/Planeta/bin/Debug/netcoreapp2.2/Planeta.runtimeconfig.dev.json
+/home/rafamaciel/Documents/Desafios/Planeta/bin/Debug/netcoreapp2.2/Planeta.dll
+/home/rafamaciel/Documents/Desafios/Planeta/bin/Debug/netcoreapp2.2/Planeta.pdb
+/home/rafamaciel/Documents/Desafios/Planeta/obj/Debug/netcoreapp2.2/Planeta.csprojAssemblyReference.cache
+/home/rafamaciel/Documents/Desafios/Planeta/obj/Debug/netcoreapp2.2/Planeta.csproj.CoreCompileInputs.cache
+/home/rafamaciel/Documents/Desafios/Planeta/obj/Debug/netcoreapp2.2/Planeta.AssemblyInfoInputs.cache
+/home/rafamaciel/Documents/Desafios/Planeta/obj/Debug/netcoreapp2.2/Planeta.AssemblyInfo.cs
+/home/rafamaciel/Documents/Desafios/Planeta/obj/Debug/netcoreapp2.2/Planeta.dll
+/home/rafamaciel/Documents/Desafios/Planeta/obj/Debug/netcoreapp2.2/Planeta.pdb

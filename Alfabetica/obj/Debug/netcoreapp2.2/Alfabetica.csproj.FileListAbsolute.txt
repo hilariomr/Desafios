@@ -1,0 +1,11 @@
+/home/rafamaciel/Documents/Desafios/Alfabetica/bin/Debug/netcoreapp2.2/Alfabetica.deps.json
+/home/rafamaciel/Documents/Desafios/Alfabetica/bin/Debug/netcoreapp2.2/Alfabetica.runtimeconfig.json
+/home/rafamaciel/Documents/Desafios/Alfabetica/bin/Debug/netcoreapp2.2/Alfabetica.runtimeconfig.dev.json
+/home/rafamaciel/Documents/Desafios/Alfabetica/bin/Debug/netcoreapp2.2/Alfabetica.dll
+/home/rafamaciel/Documents/Desafios/Alfabetica/bin/Debug/netcoreapp2.2/Alfabetica.pdb
+/home/rafamaciel/Documents/Desafios/Alfabetica/obj/Debug/netcoreapp2.2/Alfabetica.csprojAssemblyReference.cache
+/home/rafamaciel/Documents/Desafios/Alfabetica/obj/Debug/netcoreapp2.2/Alfabetica.csproj.CoreCompileInputs.cache
+/home/rafamaciel/Documents/Desafios/Alfabetica/obj/Debug/netcoreapp2.2/Alfabetica.AssemblyInfoInputs.cache
+/home/rafamaciel/Documents/Desafios/Alfabetica/obj/Debug/netcoreapp2.2/Alfabetica.AssemblyInfo.cs
+/home/rafamaciel/Documents/Desafios/Alfabetica/obj/Debug/netcoreapp2.2/Alfabetica.dll
+/home/rafamaciel/Documents/Desafios/Alfabetica/obj/Debug/netcoreapp2.2/Alfabetica.pdb
