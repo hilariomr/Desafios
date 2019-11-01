@@ -1,0 +1,11 @@
+C:\Users\32727031874\Documents\Desafios\TrianguloLado\bin\Debug\netcoreapp2.2\TrianguloLado.deps.json
+C:\Users\32727031874\Documents\Desafios\TrianguloLado\bin\Debug\netcoreapp2.2\TrianguloLado.runtimeconfig.json
+C:\Users\32727031874\Documents\Desafios\TrianguloLado\bin\Debug\netcoreapp2.2\TrianguloLado.runtimeconfig.dev.json
+C:\Users\32727031874\Documents\Desafios\TrianguloLado\bin\Debug\netcoreapp2.2\TrianguloLado.dll
+C:\Users\32727031874\Documents\Desafios\TrianguloLado\bin\Debug\netcoreapp2.2\TrianguloLado.pdb
+C:\Users\32727031874\Documents\Desafios\TrianguloLado\obj\Debug\netcoreapp2.2\TrianguloLado.csprojAssemblyReference.cache
+C:\Users\32727031874\Documents\Desafios\TrianguloLado\obj\Debug\netcoreapp2.2\TrianguloLado.csproj.CoreCompileInputs.cache
+C:\Users\32727031874\Documents\Desafios\TrianguloLado\obj\Debug\netcoreapp2.2\TrianguloLado.AssemblyInfoInputs.cache
+C:\Users\32727031874\Documents\Desafios\TrianguloLado\obj\Debug\netcoreapp2.2\TrianguloLado.AssemblyInfo.cs
+C:\Users\32727031874\Documents\Desafios\TrianguloLado\obj\Debug\netcoreapp2.2\TrianguloLado.dll
+C:\Users\32727031874\Documents\Desafios\TrianguloLado\obj\Debug\netcoreapp2.2\TrianguloLado.pdb

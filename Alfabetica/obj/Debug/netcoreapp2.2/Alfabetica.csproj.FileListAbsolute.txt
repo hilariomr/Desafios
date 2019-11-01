@@ -9,3 +9,14 @@
 /home/rafamaciel/Documents/Desafios/Alfabetica/obj/Debug/netcoreapp2.2/Alfabetica.AssemblyInfo.cs
 /home/rafamaciel/Documents/Desafios/Alfabetica/obj/Debug/netcoreapp2.2/Alfabetica.dll
 /home/rafamaciel/Documents/Desafios/Alfabetica/obj/Debug/netcoreapp2.2/Alfabetica.pdb
+C:\Users\32727031874\Documents\Desafios\Alfabetica\bin\Debug\netcoreapp2.2\Alfabetica.deps.json
+C:\Users\32727031874\Documents\Desafios\Alfabetica\bin\Debug\netcoreapp2.2\Alfabetica.runtimeconfig.json
+C:\Users\32727031874\Documents\Desafios\Alfabetica\bin\Debug\netcoreapp2.2\Alfabetica.runtimeconfig.dev.json
+C:\Users\32727031874\Documents\Desafios\Alfabetica\bin\Debug\netcoreapp2.2\Alfabetica.dll
+C:\Users\32727031874\Documents\Desafios\Alfabetica\bin\Debug\netcoreapp2.2\Alfabetica.pdb
+C:\Users\32727031874\Documents\Desafios\Alfabetica\obj\Debug\netcoreapp2.2\Alfabetica.csprojAssemblyReference.cache
+C:\Users\32727031874\Documents\Desafios\Alfabetica\obj\Debug\netcoreapp2.2\Alfabetica.csproj.CoreCompileInputs.cache
+C:\Users\32727031874\Documents\Desafios\Alfabetica\obj\Debug\netcoreapp2.2\Alfabetica.AssemblyInfoInputs.cache
+C:\Users\32727031874\Documents\Desafios\Alfabetica\obj\Debug\netcoreapp2.2\Alfabetica.AssemblyInfo.cs
+C:\Users\32727031874\Documents\Desafios\Alfabetica\obj\Debug\netcoreapp2.2\Alfabetica.dll
+C:\Users\32727031874\Documents\Desafios\Alfabetica\obj\Debug\netcoreapp2.2\Alfabetica.pdb

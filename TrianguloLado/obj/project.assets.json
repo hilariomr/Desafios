@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\32727031874\\Documents\\Desafios\\Alfabetica\\Alfabetica.csproj",
-      "projectName": "Alfabetica",
-      "projectPath": "C:\\Users\\32727031874\\Documents\\Desafios\\Alfabetica\\Alfabetica.csproj",
+      "projectUniqueName": "C:\\Users\\32727031874\\Documents\\Desafios\\TrianguloLado\\TrianguloLado.csproj",
+      "projectName": "TrianguloLado",
+      "projectPath": "C:\\Users\\32727031874\\Documents\\Desafios\\TrianguloLado\\TrianguloLado.csproj",
       "packagesPath": "C:\\Users\\32727031874\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\32727031874\\Documents\\Desafios\\Alfabetica\\obj\\",
+      "outputPath": "C:\\Users\\32727031874\\Documents\\Desafios\\TrianguloLado\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

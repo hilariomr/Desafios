@@ -6,17 +6,14 @@ namespace Alfabetica
     {
         static void Main(string[] args)
         {
-            string[] nomes = new string[2] {"Julio", "Astolfo"};
+            string[] nomes = new string[3] {"Julio", "Astolfo", "Maria"};
             
 
-            
+            Array.Sort(nomes);
             foreach (string nome in nomes)
-            {
-                Array.Sort(nomes);
-                System.Console.WriteLine(nome);
-            }
-
-
+                {
+                    System.Console.WriteLine(nome);
+                }
         }
     }
 }
