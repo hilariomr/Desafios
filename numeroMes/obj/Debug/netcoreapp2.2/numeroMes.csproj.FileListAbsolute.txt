@@ -1,0 +1,11 @@
+/home/rafamaciel/Documents/Desafios/numeroMes/obj/Debug/netcoreapp2.2/numeroMes.csprojAssemblyReference.cache
+/home/rafamaciel/Documents/Desafios/numeroMes/obj/Debug/netcoreapp2.2/numeroMes.csproj.CoreCompileInputs.cache
+/home/rafamaciel/Documents/Desafios/numeroMes/obj/Debug/netcoreapp2.2/numeroMes.AssemblyInfoInputs.cache
+/home/rafamaciel/Documents/Desafios/numeroMes/obj/Debug/netcoreapp2.2/numeroMes.AssemblyInfo.cs
+/home/rafamaciel/Documents/Desafios/numeroMes/bin/Debug/netcoreapp2.2/numeroMes.deps.json
+/home/rafamaciel/Documents/Desafios/numeroMes/bin/Debug/netcoreapp2.2/numeroMes.runtimeconfig.json
+/home/rafamaciel/Documents/Desafios/numeroMes/bin/Debug/netcoreapp2.2/numeroMes.runtimeconfig.dev.json
+/home/rafamaciel/Documents/Desafios/numeroMes/bin/Debug/netcoreapp2.2/numeroMes.dll
+/home/rafamaciel/Documents/Desafios/numeroMes/bin/Debug/netcoreapp2.2/numeroMes.pdb
+/home/rafamaciel/Documents/Desafios/numeroMes/obj/Debug/netcoreapp2.2/numeroMes.dll
+/home/rafamaciel/Documents/Desafios/numeroMes/obj/Debug/netcoreapp2.2/numeroMes.pdb

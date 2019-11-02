@@ -1,0 +1,11 @@
+/home/rafamaciel/Documents/Desafios/numeroLimite/bin/Debug/netcoreapp2.2/numeroLimite.deps.json
+/home/rafamaciel/Documents/Desafios/numeroLimite/bin/Debug/netcoreapp2.2/numeroLimite.runtimeconfig.json
+/home/rafamaciel/Documents/Desafios/numeroLimite/bin/Debug/netcoreapp2.2/numeroLimite.runtimeconfig.dev.json
+/home/rafamaciel/Documents/Desafios/numeroLimite/bin/Debug/netcoreapp2.2/numeroLimite.dll
+/home/rafamaciel/Documents/Desafios/numeroLimite/bin/Debug/netcoreapp2.2/numeroLimite.pdb
+/home/rafamaciel/Documents/Desafios/numeroLimite/obj/Debug/netcoreapp2.2/numeroLimite.csprojAssemblyReference.cache
+/home/rafamaciel/Documents/Desafios/numeroLimite/obj/Debug/netcoreapp2.2/numeroLimite.csproj.CoreCompileInputs.cache
+/home/rafamaciel/Documents/Desafios/numeroLimite/obj/Debug/netcoreapp2.2/numeroLimite.AssemblyInfoInputs.cache
+/home/rafamaciel/Documents/Desafios/numeroLimite/obj/Debug/netcoreapp2.2/numeroLimite.AssemblyInfo.cs
+/home/rafamaciel/Documents/Desafios/numeroLimite/obj/Debug/netcoreapp2.2/numeroLimite.dll
+/home/rafamaciel/Documents/Desafios/numeroLimite/obj/Debug/netcoreapp2.2/numeroLimite.pdb

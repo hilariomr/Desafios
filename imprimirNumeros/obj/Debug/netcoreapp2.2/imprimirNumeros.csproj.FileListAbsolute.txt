@@ -1,0 +1,11 @@
+/home/rafamaciel/Documents/Desafios/imprimirNumeros/bin/Debug/netcoreapp2.2/imprimirNumeros.deps.json
+/home/rafamaciel/Documents/Desafios/imprimirNumeros/bin/Debug/netcoreapp2.2/imprimirNumeros.runtimeconfig.json
+/home/rafamaciel/Documents/Desafios/imprimirNumeros/bin/Debug/netcoreapp2.2/imprimirNumeros.runtimeconfig.dev.json
+/home/rafamaciel/Documents/Desafios/imprimirNumeros/bin/Debug/netcoreapp2.2/imprimirNumeros.dll
+/home/rafamaciel/Documents/Desafios/imprimirNumeros/bin/Debug/netcoreapp2.2/imprimirNumeros.pdb
+/home/rafamaciel/Documents/Desafios/imprimirNumeros/obj/Debug/netcoreapp2.2/imprimirNumeros.csprojAssemblyReference.cache
+/home/rafamaciel/Documents/Desafios/imprimirNumeros/obj/Debug/netcoreapp2.2/imprimirNumeros.csproj.CoreCompileInputs.cache
+/home/rafamaciel/Documents/Desafios/imprimirNumeros/obj/Debug/netcoreapp2.2/imprimirNumeros.AssemblyInfoInputs.cache
+/home/rafamaciel/Documents/Desafios/imprimirNumeros/obj/Debug/netcoreapp2.2/imprimirNumeros.AssemblyInfo.cs
+/home/rafamaciel/Documents/Desafios/imprimirNumeros/obj/Debug/netcoreapp2.2/imprimirNumeros.dll
+/home/rafamaciel/Documents/Desafios/imprimirNumeros/obj/Debug/netcoreapp2.2/imprimirNumeros.pdb
